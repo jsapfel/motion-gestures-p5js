@@ -1,10 +1,10 @@
 ## Recognizing motion gestures on iPhones (iOS 13+) with p5.js.
 
-## Try out at: https://preview.p5js.org/jsapfel/present/k4Jr4iPa1
+### Try out at: https://preview.p5js.org/jsapfel/present/k4Jr4iPa1
 
-## Gestures:
+### Gestures:
 
-### 1. Circle/Spiral
+1. Circle/Spiral
 	- Move phone in a smooth circle/spiral motion, covering a full 360 degrees.
 	- For circles in the phone's XY plane only.
 	- Super fast and super slow circles don't count (to minimize accidental activation)
