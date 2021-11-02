@@ -4,7 +4,7 @@
 
 ## Gestures:
 
-1. Circle/spiral
+### 1. Circle/Spiral
 	- Move phone in a smooth circle/spiral motion, covering a full 360 degrees.
 	- For circles in the phone's XY plane only.
 	- Super fast and super slow circles don't count (to minimize accidental activation)
