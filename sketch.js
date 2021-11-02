@@ -61,7 +61,7 @@ function setup() {
     })
   } 
   else {
-    textSize(30);
+    textSize(50);
     text("Not iOS 13+", width/2, height/2-100);
     text("Can't access device motion/orientation", width/2, height/2);
   }
